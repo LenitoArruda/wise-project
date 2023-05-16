@@ -1,0 +1,25 @@
+.newproject_container {
+    width: 100%;
+    padding: 3em;
+    margin: 0 auto;
+
+}
+
+.form_container {
+    width: 450px;
+    margin: 0 auto;
+    padding: 3em;
+
+}
+
+.form_container h1 {
+    margin-bottom: 0.5em;
+}
+
+.form_container p {
+    color: rgb(99, 96, 96);;
+}
+
+.message {
+    height: 80px;
+}
